@@ -1,0 +1,12 @@
+# files relative to gradle
+.gradle/
+bin/
+build/
+# relative to IDEs or editors
+.classpath
+.project
+.idea/
+.settings/
+.vscode/
+utils/
+web/
