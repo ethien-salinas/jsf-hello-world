@@ -1,4 +1,4 @@
-package org.certificatic;
+package org.certificatic.managedbean;
 
 import java.io.Serializable;
 import javax.faces.bean.ManagedBean;
