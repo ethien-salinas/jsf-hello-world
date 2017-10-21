@@ -10,7 +10,7 @@ public class HelloWorldManagedBean implements Serializable{
 
     private static final long serialVersionUID = -6913972022251814607L;
 
-    private String name = "Ethien Salinas";
+    private String name;
 
     public String getName() {
         return name;
